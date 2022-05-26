@@ -23,6 +23,8 @@ Visualizador de dados sísmicos e de GPR - Geo Cat Eye
 GPR and Seismic Data Viewer - Geo Cat Eye
 https://share.streamlit.io/allanspadini/geocateye/main/geocateye.py
 
+[![DOI](https://zenodo.org/badge/428036561.svg)](https://zenodo.org/badge/latestdoi/428036561)
+
 
 
 
