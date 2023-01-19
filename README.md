@@ -2,9 +2,6 @@
 
 
  
-<div> 
-  <a href="https://www.youtube.com/channel/UCYEwurufany-SrB3vvnVLJA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
 
 <div>
   <a href = "mailto:spadini@alumni.usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
