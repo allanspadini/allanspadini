@@ -28,7 +28,7 @@ https://share.streamlit.io/allanspadini/geocateye/main/geocateye.py
 Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
 
 
-![Livro Prophet](unknown.png)
+
 
 
 
