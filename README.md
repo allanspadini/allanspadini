@@ -42,7 +42,8 @@ https://share.streamlit.io/allanspadini/geocateye/main/geocateye.py
 [![DOI](https://zenodo.org/badge/428036561.svg)](https://zenodo.org/badge/latestdoi/428036561)
 
 - Personal website
-[allanspadini.com](allanspadini.com)
+
+[allanspadini.com](https://allanspadini.com)
 
 
 ![Allan Spadini GitHub stats](https://github-readme-stats.vercel.app/api?username=allanspadini)
