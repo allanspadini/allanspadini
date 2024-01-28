@@ -4,7 +4,7 @@ I am a professional in the field of Data Science and Artificial Intelligence. Cu
 
 [![Gmail Badge](https://img.shields.io/badge/allan.spadini@gmail.com-ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.spadini@gmail.com)](mailto:allan.spadini@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/allanspadini-ff0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanspadini/)](https://www.linkedin.com/in/allanspadini/)
+[![Linkedin Badge](https://img.shields.io/badge/allanspadini-ff0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanspadini/)](https://www.linkedin.com/in/allan-spadini/)
 
 ## Courses 👨‍🏫 - [Alura](https://cursos.alura.com.br/user/allan-spadini)
 
