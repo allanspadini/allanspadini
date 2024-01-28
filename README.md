@@ -6,7 +6,21 @@ I am a professional in the field of Data Science and Artificial Intelligence. Cu
 
 [![Linkedin Badge](https://img.shields.io/badge/allanspadini-ff0000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanspadini/)](https://www.linkedin.com/in/allanspadini/)
 
+## Courses 👨‍🏫 - [Alura](https://cursos.alura.com.br/user/allan-spadini)
 
+[Vertex AI: dominando Machine Learning sem código](https://www.alura.com.br/curso-online-vertex-ai-dominando-machine-learning-codigo)
+
+[Classificação: combinando classificadores para a melhoria de performance](https://www.alura.com.br/curso-online-classificacao-combinando-classificadores-melhoria-performance)
+
+[Classificação: selecionando features](https://www.alura.com.br/curso-online-classificacao-selecionando-features)
+
+[Databricks: análise de dados](https://www.alura.com.br/curso-online-databricks-analise-dados)
+
+[Geopandas: trabahando com dados geoespaciais](https://www.alura.com.br/curso-online-geopandas-trabalhando-dados-geoespaciais)
+
+[NumPy: análise numérica eficiente com Python](https://www.alura.com.br/curso-online-numpy-analise-numerica-eficiente-pythons)
+
+[Deep Learning: previsão com Keras](https://www.alura.com.br/curso-online-deep-learning-previsao-keras)
 
 
 ## Skills 🔭
