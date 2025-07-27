@@ -34,17 +34,6 @@ I am a professional in the field of Data Science and Artificial Intelligence. Cu
 [Séries temporais com Prophet
 Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
 
-### Projects 📝
-
-- GPR and Seismic Data Viewer - Geo Cat Eye
-https://share.streamlit.io/allanspadini/geocateye/main/geocateye.py
-
-[![DOI](https://zenodo.org/badge/428036561.svg)](https://zenodo.org/badge/latestdoi/428036561)
-
-- Personal website
-
-[allanspadini.com](https://allanspadini.com)
-
 
 ![Allan Spadini GitHub stats](https://github-readme-stats.vercel.app/api?username=allanspadini)
 
