@@ -8,6 +8,8 @@ I am a professional in the field of Data Science and Artificial Intelligence. Cu
 
 ## Courses 👨‍🏫 - [Alura](https://cursos.alura.com.br/user/allan-spadini)
 
+[Agentes de IA - LangGraph](https://alura.herospark.co/p/flash-skills-a?utm_source=Linkedin&utm_medium=fabricio&utm_campaign=flash-skills-agentes-ia_matriculas)
+
 [Vertex AI: dominando Machine Learning sem código](https://www.alura.com.br/curso-online-vertex-ai-dominando-machine-learning-codigo)
 
 [Classificação: combinando classificadores para a melhoria de performance](https://www.alura.com.br/curso-online-classificacao-combinando-classificadores-melhoria-performance)
