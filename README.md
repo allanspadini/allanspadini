@@ -1,6 +1,10 @@
 ### Hello 🐱
 
-I am a professional in the field of Data Science and Artificial Intelligence. Currently, I am a Data Science instructor at Alura, where I also coordinated the construction of the Data Science undergraduate course at Alura.Tech College and created various educational materials in the field of Data Science, including postgraduate online tracks. I have a degree in Geophysics from the University of São Paulo, where I also completed my master's and doctorate in Geophysics focusing on the mathematical inversion of seismic data. During my doctorate, I had the opportunity to spend a period at Delft University of Technology in the Netherlands. Before dedicating myself to Data Science, I worked as a Geophysicist at GPR-Geoscience, applying shallow Geophysics techniques, such as seismic, electric, and electromagnetic methods. I have several scientific publications in the field of Geophysics, in addition to various courses and certificates in Data Science and Data Engineering. I am always seeking to update myself and learn new technologies and tools that can help me solve complex problems with data. I am fluent in English and interested in opportunities involving Data Scientist, Senior Data Analyst, Machine Learning Engineer, or Geophysics. If you want to know more about me, please contact me. I would be happy to chat with you! 😊
+I have a PhD in Geophysics with a strong background in Artificial Intelligence, particularly in Deep Learning and Computer Vision. I currently work as an Artificial Intelligence Engineer at Banco BV, developing generative AI-based solutions for real-world business applications.
+
+I have hands-on experience across the full AI project cycle—from data analysis and preparation to implementation, validation, and deployment of models in production. I have also worked as a senior Data Science instructor, creating technical content on AI, MLOps, and modern tools such as PyTorch, Hugging Face, LangChain, and Streamlit.
+
+I always strive to connect applied AI with real-world impact—whether through technical projects, consulting, innovation products, or strategic collaborations.I would be happy to chat with you! 😊
 
 [![Gmail Badge](https://img.shields.io/badge/allan.spadini@gmail.com-ff0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:allan.spadini@gmail.com)](mailto:allan.spadini@gmail.com)
 
